@@ -1,18 +1,22 @@
-<div align="center">
-  <h1 >Hi 👋, I'm Kishan</h1>
-</div>
+<h1 align="center">Hi 👋, I'm Kishan</h1>
 
+![MasterHead](ghcover.png)
 
+## **About**
 
-<h2>About:</h2>
+- I'm currently working as a Associate Software Engineer with 1+ YOE
+- A passionate developer interested in Web Development , DevOps and Cloud
+- [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vskishan&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vskishan/)
+- 📧 How to reach out to me : **vskishanreddy999@gmail.com**
 
-<ul>
-<li>I'm currently working as a Associate Software Engineer with 1+ YOE
-<li>A passionate developer interested in Backend Development , DevOps and Cloud
-</ul>
+## **Skills:**
 
-<h2>Skills:</h2>
-<h4> Programming Languages: </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,gcp,docker,kubernetes,mysql,postgresql" />
+  </a>
+</p>
+
 
 
 
