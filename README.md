@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,,postgresql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql" />
   </a>
 </p>
 
