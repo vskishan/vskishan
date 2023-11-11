@@ -3,16 +3,15 @@
 
 ## **About**
 
-- I'm currently working as a Backend Developer with 2+ YOE
-- A passionate developer interested in Web development
-- [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vskishan&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vskishan/)
-- 📧 How to reach out to me : **vskishanreddy999@gmail.com**
+- Around 2.5 years of experience in Software Development dealing with Design, Development and Testing of various backend applications
+- Proficient with Spring Boot, Postgres
+- Good exposure in building systems for Content Management domain
 
 ## **Skills:**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,selenium" />
   </a>
 </p>
 
