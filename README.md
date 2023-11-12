@@ -5,7 +5,7 @@
 
 - Around 2.5 years of experience in Software Development dealing with Design, Development and Testing of various backend applications
 - Proficient with Spring Boot, Postgres
-- Good exposure in building systems for Content Management domain
+- Professionally contributed to the developement of systems in Content Management domain
 
 ## **Skills:**
 
