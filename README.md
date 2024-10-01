@@ -3,7 +3,7 @@
 
 ## **About**
 
-- Around 2.5 years of experience in Software Development dealing with Design, Development and Testing of various backend applications
+- More than 3 years of experience in Software Development dealing with Design, Development and Testing of various backend applications
 - Proficient with Spring Boot, Postgres
 - Professionally contributed to the developement of systems in Content Management domain
 - If you are interested in learning some cool stuff then follow me here : https://vskishan.substack.com/
